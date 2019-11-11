@@ -1,4 +1,3 @@
-
 #ifndef MYMATH_H
 #define MYMATH_H "myMath.h"
 float add(float,float);
