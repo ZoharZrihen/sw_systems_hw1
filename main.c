@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "myMath.h"
 
-
 int main(){
 	double x;
 	printf("Please enter a real number: ");

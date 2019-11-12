@@ -1,8 +1,5 @@
 #include "myMath.h"
 
-
-#define E 2.71828182845904523536
-
 double posPow(double x,int y){
 	if (y == 1) return x;
 	return x*posPow(x,y-1);

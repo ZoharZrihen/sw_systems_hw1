@@ -24,4 +24,4 @@ main.o: main.c myMath.h
 .PHONY: clean all
 
 clean:
-	rm -f *.o *.a *.so mains maind 
+	rm -f *.o *.a *.so mains maind
